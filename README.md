@@ -6,6 +6,9 @@ The ultimate, highly extensible, and professional error-handling library for all
 
 Write cleaner code. Catch everything cleanly. Provide highly standardized, enterprise-grade REST API responses.
 
+> [!IMPORTANT]
+> **Recommended Version:** For the latest enterprise features (i18n, masking, webhooks) and enhanced security, please use version **`1.2.1`** or later.
+
 ## Key Features ✨
 
 - **🌐 Universal Applicability:** Specifically designed middleware for `Express` and `Fastify`, plus raw Node integrations.
@@ -24,6 +27,23 @@ Write cleaner code. Catch everything cleanly. Provide highly standardized, enter
 
 **Mandeep Yadav**  
 *Building professional tools for the JavaScript ecosystem.*
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?style=flat-square&logo=github)](https://github.com/man21)
+[![Repository](https://img.shields.io/badge/GitHub-Repository-lightgrey?style=flat-square&logo=github)](https://github.com/man21/universal-error-handler)
+
+---
+
+## 🤝 Contributing & Collaboration
+
+We love contributions! Whether it's fixing a bug, suggesting a feature, or improving documentation, your help is welcome.
+
+1.  **Fork** the repo.
+2.  **Create** a branch (`git checkout -b feature/amazing-feature`).
+3.  **Commit** your changes (`git commit -m 'Add amazing feature'`).
+4.  **Push** to the branch (`git push origin feature/amazing-feature`).
+5.  **Open** a Pull Request.
+
+Check our [Contributing Guide](CONTRIBUTING.md) for more details.
 
 ---
 
@@ -307,3 +327,7 @@ setLogger(logger); // Errors will now be streamed through Winston!
 **Universal Error Handler** is crafted with precision to help you build resilient, production-ready applications. 
 
 Made with ❤️ by **Mandeep Yadav** for Javascript Developers everywhere. 🚀
+
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE).

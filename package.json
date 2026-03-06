@@ -1,9 +1,17 @@
 {
   "name": "universal-error-handler",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "The ultimate, highly extensible error-handling library for Express, Fastify, React, and Node.js. Includes i18n, sensitive data masking, and critical error webhooks.",
   "main": "src/index.js",
   "types": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/man21/universal-error-handler.git"
+  },
+  "bugs": {
+    "url": "https://github.com/man21/universal-error-handler/issues"
+  },
+  "homepage": "https://github.com/man21/universal-error-handler#readme",
   "keywords": [
     "error-handler",
     "universal",
