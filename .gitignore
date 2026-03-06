@@ -1,0 +1,56 @@
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+.pnpm-debug.log*
+
+# OS metadata
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDEs and editors
+.idea/
+.vscode/
+*.swp
+*.swo
+.project
+.classpath
+.settings/
+
+# Testing
+coverage/
+.nyc_output/
+
+# Build and distribution
+dist/
+build/
+lib/
+out/
+.next/
+.serverless/
+.output/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.env
+
+# Others
+.npm/
+.eslintcache
+.stylelintcache
+node_spec.html
+.grunt
+.lock-wscript
+package-lock.json
+pnpm-lock.yaml
+yarn.lock

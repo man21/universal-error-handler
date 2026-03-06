@@ -1,0 +1,37 @@
+{
+  "name": "universal-error-handler",
+  "version": "1.2.0",
+  "description": "The ultimate, highly extensible error-handling library for Express, Fastify, React, and Node.js. Includes i18n, sensitive data masking, and critical error webhooks.",
+  "main": "src/index.js",
+  "types": "index.d.ts",
+  "keywords": [
+    "error-handler",
+    "universal",
+    "express",
+    "fastify",
+    "react",
+    "i18n",
+    "security-masking",
+    "zod-errors",
+    "mongoose-errors",
+    "validation",
+    "api-errors",
+    "standardized-response"
+  ],
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "files": [
+    "src",
+    "index.d.ts",
+    "README.md"
+  ],
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Mandeep Yadav",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
